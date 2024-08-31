@@ -1,2 +1,2 @@
 # Stats-507
-Umich Stats 507 courseworks.
+This is my Umich Stats-507 Data Science and Analytics using Python courseworks repository.
